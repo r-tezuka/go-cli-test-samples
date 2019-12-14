@@ -1,0 +1,2 @@
+testFile0
+foo
